@@ -1,0 +1,87 @@
+body {
+    font-family: comic-sans;
+}
+
+a {
+    color:rgb(255, 0, 0);
+    padding:5px;
+    margin:20px;
+ text-decoration: none;
+}
+
+.whean {
+    border: red 2px solid;
+    text-decoration: none;
+    border-radius: 5px;
+    color: red;
+}
+
+header {
+    background-color:red;
+}
+
+header a {
+    color: white;
+}
+
+footer {
+    background-color: red;
+}
+
+footer p {
+    color: white;
+}
+
+h1,h2 {
+    text-align: center;
+}
+
+.cool {
+    border: red 4px solid;
+    width:80px ;
+    padding: 5px;
+    float: left;
+    margin-left: 20px;
+    height: 110px;
+    text-align: center;
+}
+
+.y {
+    border: red 4px solid;
+    width:80px ;
+    padding: 5px;
+      float: left;
+      margin-left: 20px;
+       height: 110px;
+       text-align: center;
+       
+
+}
+
+.a{
+   border: red 4px solid;
+    width:80px ;
+    padding: 5px;
+      float: left;
+      margin-left: 20px;
+       height: 110px;
+       text-align: center;
+}
+
+.s {
+    border: red 4px solid;
+    width:80px ;
+    padding: 5px;
+      float: left;
+      margin-left: 20px;
+       height: 110px;
+       text-align: center;
+}
+
+.d{
+    float: left;
+}
+
+.f {
+    float: left;
+}
